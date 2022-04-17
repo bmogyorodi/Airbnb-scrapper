@@ -1,4 +1,4 @@
-# Travelnest interview question solution, made by Bence Mogyorodi
+# Airbnb web-scrapper solution, made by Bence Mogyorodi
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
